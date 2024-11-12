@@ -1,2 +1,2 @@
-# mapas_calor_labcruz
-codigo cesar, datos jimena, funciones santiago, ayuda Monse
+# Heatmaps
+Code: Cesar3228, Data: Jimena A., Functiones: santi-rios, Verification: Monse
